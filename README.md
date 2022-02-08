@@ -1,16 +1,20 @@
-### Hi there 👋
+```C
+typedef struct  s42student
+{
+  char  *name = "Mathias Lagrange";
+  char  *occupation = "42student";
+  char  *country = "France, Argentina";
+  char  **language = {"French", "Spanish", "English"};
+  void  *brain = malloc(sizeof(char) * 100);
+};              t42student
+```
 
-<!--
-**Itraya/Itraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+zsh: command not found: Will to live
 
-Here are some ideas to get you started:
+<h4>My Piscine at 42:</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![mlagrang's 42Piscine stats](https://badge42.herokuapp.com/api/stats/mlagrang?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
+
+<h4>My profile at 42:</h4>
+
+[![mlagrang's 42 stats](https://badge42.herokuapp.com/api/stats/mlagrang?darkmode=true)](https://github.com/JaeSeoKim/badge42)
