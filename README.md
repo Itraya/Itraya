@@ -1,12 +1,12 @@
 ```C
-typedef struct  s42student
+typedef struct  sstudent
 {
   char  *name = "Mathias Lagrange";
   char  *occupation = "42student";
   char  *country = "France, Argentina";
   char  **language = {"French", "Spanish", "English"};
   void  *brain = malloc(sizeof(char) * 100);
-};              t42student
+};              tstudent
 ```
 
 zsh: command not found: Will to live
