@@ -2,9 +2,10 @@
 typedef struct  sstudent
 {
   char  *name = "Mathias Lagrange";
+  unsigned int  age = 19;
   char  *occupation = "42student";
   char  *country = "France, Argentina";
-  char  **language = {"French", "Spanish", "English"};
+  char  **languages = {"French", "Spanish", "English"};
   void  *brain = malloc(sizeof(char) * 100);
 };              tstudent
 ```
